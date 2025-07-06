@@ -114,14 +114,6 @@ palmoria-hr-analysis/
 - **Data Validation**: Ensuring data integrity and accuracy
 - **Conditional Formatting**: Visual identification of disparities
 
-### 🐍 Python Analysis
-```python
-# Key libraries used
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy import stats
 ```
 
 ### 📈 Power BI Dashboard
@@ -133,11 +125,11 @@ from scipy import stats
 ---
 
 ## 📋 Where to Insert Your Files
-
-### 1. **Raw Data Files**
+[
+[📥 Click here to download the Excel Report](https://github.com/emmanuelomitogun/PALMORA-CASE-STUDY2/raw/refs/heads/main/DSA_PALMORA_%20PROJECT.xlsx)
 ```
 📂 data/raw/
-└── [INSERT YOUR ORIGINAL EXCEL FILE HERE]
+└── 
     Example: "palmoria_employee_data_original.xlsx"
 ```
 
@@ -152,9 +144,11 @@ from scipy import stats
 ```
 
 ### 3. **Excel Workbooks with Pivot Tables**
-```
-📂 analysis/excel_workbooks/
-├── [INSERT YOUR PIVOT TABLE EXCEL FILE HERE]
+ #### 📥 Download the Full Excel Report
+
+[📥 Download Excel Report](DSA%20PALMERIA%20PROJECT.xlsx)
+
+
 │   Example: "palmoria_pivot_analysis.xlsx"
 ├── compensation_analysis.xlsx
 └── bonus_calculation_model.xlsx
