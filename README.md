@@ -4,20 +4,21 @@
 
 ## 📑 Table of Contents
 
-1. [Executive Summary](#executive-summary)  
-2. [Objectives](#objectives)  
-3. [Problem Statement](#problem-statement)  
-4. [Methodology](#methodology)  
-5. [Data Cleaning](#data-cleaning)  
-6. [Project Overview](#project-overview)  
-7. [Insights](#insights)  
-8. [Strategic Recommendations](#strategic-recommendations)  
-9. [The Business Case for Change](#the-business-case-for-change)  
-10. [Implementation Roadmap](#implementation-roadmap)  
-11. [Lessons Learned and Reflections](#lessons-learned-and-reflections)  
-12. [Technical Portfolio Showcase](#technical-portfolio-showcase)  
-13. [The Human Impact](#the-human-impact)  
-14. [Final Thoughts](#final-thoughts)
+1. [Executive Summary](#1-executive-summary)  
+2. [Objectives](#2-objectives)  
+3. [Problem Statement](#3-problem-statement)  
+4. [Methodology](#4-methodology)  
+5. [Data Cleaning](#5-data-cleaning)  
+6. [Project Overview](#6-project-overview)  
+7. [Insights](#7-insights)  
+8. [Strategic Recommendations](#8-strategic-recommendations)  
+9. [The Business Case for Change](#9-the-business-case-for-change)  
+10. [Implementation Roadmap](#10-implementation-roadmap)  
+11. [Lessons Learned and Reflections](#11-lessons-learned-and-reflections)  
+12. [Technical Portfolio Showcase](#12-technical-portfolio-showcase)  
+13. [The Human Impact](#13-the-human-impact)  
+14. [Final Thoughts](#14-final-thoughts)
+
 
 
 ---
