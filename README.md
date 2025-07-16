@@ -4,26 +4,31 @@
 
 ## 📑 Table of Contents
 
-1. [Executive Summary](#1-executive-summary)  
-2. [Objectives](#2-objectives)  
-3. [Problem Statement](#3-problem-statement)  
-4. [Methodology](#4-methodology)  
-5. [Data Cleaning](#5-data-cleaning)  
-6. [Project Overview](#6-project-overview)  
-7. [Insights](#7-insights)  
-8. [Strategic Recommendations](#8-strategic-recommendations)  
-9. [The Business Case for Change](#9-the-business-case-for-change)  
-10. [Implementation Roadmap](#10-implementation-roadmap)  
-11. [Lessons Learned and Reflections](#11-lessons-learned-and-reflections)  
-12. [Technical Portfolio Showcase](#12-technical-portfolio-showcase)  
-13. [The Human Impact](#13-the-human-impact)  
-14. [Final Thoughts](#14-final-thoughts)
+
+## TABLE OF CONTENTS
+
+1. [Executive Summary](#executive-summary)  
+2. [Objectives](#objectives)  
+3. [Problem Statement](#problem-statement)  
+4. [Methodology](#methodology)  
+5. [Data Cleaning](#data-cleaning)  
+6. [Project Overview](#project-overview)  
+7. [Insights](#insghts)  
+8. [My Strategic Recommendations](#my-strategic-recommendations)  
+9. [The Business Case for Change](#the-business-case-for-change)  
+10. [Implementation Roadmap](#implementation-roadmap)  
+11. [Lessons Learned and Reflections](#lessons-learned-and-reflections)  
+12. [Technical Portfolio Showcase](#technical-portfolio-showcase)  
+13. [The Human Impact](#the-human-impact)  
+14. [Final Thoughts](#final-thoughts)
+
+
 
 
 
 ---
 
-## **1. EXECUTIVE SUMMARY**
+## ** EXECUTIVE SUMMARY**
 
 This report analyzes Palmora Group’s internal compensation structure and performance evaluation system with a special lens on gender equity. Triggered by a social media campaign alleging gender bias (#PalmoraTheManufacturingPatriarchy), the company faced growing public pressure. As an external consultant, I was engaged to investigate the real facts.
 
@@ -31,7 +36,7 @@ The findings were clear: some departments showed equity success, but others reve
 
 ---
 
-## **2. OBJECTIVES**
+## ** OBJECTIVES**
 
 * To audit gender distribution across departments and regions
 * To evaluate salary and bonus allocations by gender
@@ -41,13 +46,13 @@ The findings were clear: some departments showed equity success, but others reve
 
 ---
 
-## **3. PROBLEM STATEMENT**
+## ** PROBLEM STATEMENT**
 
 Palmora was publicly accused of fostering gender inequity in pay and promotions. Internally, leadership lacked clarity on the validity of these claims. The issue wasn’t just reputational – it risked talent loss, regulatory scrutiny, and poor employee morale.
 
 ---
 
-## **4. METHODOLOGY**
+## ** METHODOLOGY**
 
 1. **Data Collection**: Extracted 946 employee records from Palmora’s HRIS
 2. **Data Cleaning**: Handled NULL values, filtered departed staff, and flagged 40 undisclosed gender entries
@@ -58,7 +63,7 @@ Palmora was publicly accused of fostering gender inequity in pay and promotions.
 
 ---
 
-## **5. DATA CLEANING**
+## ** DATA CLEANING**
 
 * Total records: **946**
 * Undisclosed gender: **4.23% (40 staff)**
@@ -69,7 +74,7 @@ Findings from missing ratings (8%) and undisclosed gender helped shape the recom
 
 ---
 
-## **6. PROJECT OVERVIEW**
+## ** PROJECT OVERVIEW**
 
 Client: Palmora Group (Manufacturing Company - Nigeria)
 Role: HR Analytics Expert (Consultant)
@@ -83,7 +88,7 @@ The Challenge That Started It All: Picture this: You're running a successful man
 
 ---
 
-## **7. INSIGHTS**
+## ** INSIGHTS**
 
 When I first walked into Palmora's headquarters, I could feel the tension. The executive team was caught between external pressure and internal uncertainty. They genuinely wanted to do right by their employees, but they also needed to know: Were the allegations true? If so, how deep did the problem go? And most importantly, what would it take to fix it?
 
@@ -193,7 +198,7 @@ But here's the crucial insight: This gap correlated directly with performance ra
 
 ---
 
-## **13. MY STRATEGIC RECOMMENDATIONS**
+## ** STRATEGIC RECOMMENDATIONS**
 
 ### **Phase 1: Stop the Bleeding (0–3 months)**
 
@@ -221,7 +226,7 @@ But here's the crucial insight: This gap correlated directly with performance ra
 
 ---
 
-## **14. THE BUSINESS CASE FOR CHANGE**
+## ** THE BUSINESS CASE FOR CHANGE**
 
 **Why This Matters Beyond “Doing the Right Thing”**
 
@@ -240,7 +245,7 @@ But here's the crucial insight: This gap correlated directly with performance ra
 
 ---
 
-## **15. IMPLEMENTATION ROADMAP**
+## ** IMPLEMENTATION ROADMAP**
 
 ### **Phase 1: Foundation (Months 1–3)**
 
@@ -268,7 +273,7 @@ But here's the crucial insight: This gap correlated directly with performance ra
 
 ---
 
-## **16. LESSONS LEARNED AND REFLECTIONS**
+## ** LESSONS LEARNED AND REFLECTIONS**
 
 **What This Project Taught Me**
 
@@ -281,7 +286,7 @@ This project didn't just identify problems—it provided a roadmap for solutions
 
 ---
 
-## **17. TECHNICAL PORTFOLIO SHOWCASE**
+## ** TECHNICAL PORTFOLIO SHOWCASE**
 
 ### **GitHub Repository Structure**
 
@@ -325,7 +330,7 @@ palmora-hr-analysis/
 
 ---
 
-## **18. THE HUMAN IMPACT**
+## ** THE HUMAN IMPACT**
 
 **Beyond the Numbers**
 While this case study showcases technical skills and analytical capabilities, what I'm most proud of is the human impact. This analysis helped ensure that 946 employees would be treated fairly and that a company could continue growing while doing right by its people.
@@ -334,7 +339,7 @@ The most rewarding moment came six months later when the CHRO called to tell me 
 
 ---
 
-## **19. FINAL THOUGHTS**
+## ** FINAL THOUGHTS**
 
 This project reinforced my belief that HR analytics isn't just about numbers—it's about people. When you combine rigorous data analysis with genuine empathy for the human experience, you can create solutions that are both analytically sound and practically effective.
 
