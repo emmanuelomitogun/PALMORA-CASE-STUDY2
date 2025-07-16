@@ -2,22 +2,23 @@
 
 ---
 
-## **TABLE OF CONTENTS**
+## 📑 Table of Contents
 
-1. Executive Summary
-2. Objectives
-3. Problem Statement
-4. Methodology
-5. Data Cleaning
-6. Project Overview
-7. Insights
-8. Strategic Recommendations
-9. The Business Case for Change
-10. Implementation Roadmap
-11. Lessons Learned and Reflections
-12. Technical Portfolio Showcase
-13. The Human Impact
-14. Final Thoughts
+1. [Executive Summary](#executive-summary)  
+2. [Objectives](#objectives)  
+3. [Problem Statement](#problem-statement)  
+4. [Methodology](#methodology)  
+5. [Data Cleaning](#data-cleaning)  
+6. [Project Overview](#project-overview)  
+7. [Insights](#insights)  
+8. [Strategic Recommendations](#strategic-recommendations)  
+9. [The Business Case for Change](#the-business-case-for-change)  
+10. [Implementation Roadmap](#implementation-roadmap)  
+11. [Lessons Learned and Reflections](#lessons-learned-and-reflections)  
+12. [Technical Portfolio Showcase](#technical-portfolio-showcase)  
+13. [The Human Impact](#the-human-impact)  
+14. [Final Thoughts](#final-thoughts)
+
 
 ---
 
