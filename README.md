@@ -125,9 +125,13 @@ How I Tackled the Challenge: When dealing with sensitive topics like gender equi
 
 **Gender Distribution:**
 
-* Male employees: 49.15% (465 staff)
-* Female employees: 46.62% (441 staff)
-* Undisclosed gender: 4.23% (40 staff)
+| Gender             | Count | Percentage |
+|--------------------|-------|------------|
+| Male Employees     | 465   | 49.15%     |
+| Female Employees   | 441   | 46.62%     |
+| Undisclosed Gender | 40    | 4.23%      |
+| **Total**          | 946   | 100%       |
+
 
 At first glance, this looked reasonably balanced. But that 4% non-disclosure rate caught my attention. In my experience, when employees don't feel comfortable sharing basic demographic information, it often signals deeper trust issues within the organization.
 
@@ -184,16 +188,23 @@ Absolutely. Continuing directly from Section 12 — keeping everything **exactly
 The performance-based bonus system told an interesting story:
 
 * Total distributed: ₦11.6 million
-* Recipients: 874 employees (92%)
-* No bonus: 72 employees (8%)
+
+| Bonus Status       | Employees | Percentage |
+|--------------------|-----------|------------|
+| Received Bonus     | 874       | 92%        |
+| Did Not Receive    | 72        | 8%         |
+
+
 
 **The troubling finding:** 8% of employees received no bonus, not due to poor performance—but because they had no performance rating recorded at all. This isn't just a data oversight; it signals inconsistency in how managers are evaluating staff. When performance tracking isn't enforced uniformly, it results in real financial exclusion—and can harm morale, trust, and retention over time.
 
 **Regional Bonus Patterns:**
 
-* Lagos: ₦1.2M (Average: ₦8,000 per recipient)
-* Abuja: ₦1.8M (Average: ₦12,000 per recipient)
-* Kaduna: ₦1.6M (Average: ₦10,667 per recipient)
+| Region  | Total Bonus Distributed | Average Bonus per Recipient |
+|---------|--------------------------|------------------------------|
+| Lagos   | ₦1.2M                   | ₦8,000                      |
+| Abuja   | ₦1.8M                   | ₦12,000                     |
+| Kaduna  | ₦1.6M                   | ₦10,667                     |
 
 **The Gender Gap in Bonuses:**
 
