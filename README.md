@@ -96,7 +96,7 @@ The Challenge That Started It All: Picture this: You're running a successful man
 | File                                                                             | Description                                       |
 | -------------------------------------------------------------------------------- | ------------------------------------------------- |
 [`📄 Palmora Insight`](./palmora_word_document.docx)       | All visuals, with insight notes |
-👉 [View the Live Dashboard](<iframe title="PALMORA DASHBAORD" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjJhODM5NTctNzM0NC00ZmE5LTk0YjAtYjY1Mzg5ZTU4NThhIiwidCI6IjY5MzhjMjVlLTYwZGEtNDc5YS05ODYzLTBkYzMwNTE2MTY2YSJ9" frameborder="0" allowFullScreen="true"></iframe>) | Explore key business insights through our fully interactive Power BI dashboard.|
+👉 [View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJhODM5NTctNzM0NC00ZmE5LTk0YjAtYjY1Mzg5ZTU4NThhIiwidCI6IjY5MzhjMjVlLTYwZGEtNDc5YS05ODYzLTBkYzMwNTE2MTY2YSJ9) | Explore key business insights through our fully interactive Power BI dashboard.|
 [`📂 Order Details Dataset`](./kms_sql_case_.xlsx)                      | Full original dataset, cleaned and analyzed       |
 
 
