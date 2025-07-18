@@ -91,6 +91,16 @@ Tools Used: Excel, Power BI, Python, Statistical Analysis, Data Visualization
 
 The Challenge That Started It All: Picture this: You're running a successful manufacturing company, and suddenly you're trending on social media with the hashtag **"Palmora, the Manufacturing Patriarchy."** That's exactly what happened to Palmora Group. The media storm wasn't just about reputation—it was threatening real business expansion plans. The leadership team knew they needed more than damage control; they needed the truth, backed by data.
 
+## 💾 Project Files & Downloads
+
+| File                                                                             | Description                                       |
+| -------------------------------------------------------------------------------- | ------------------------------------------------- |
+[`📄 KMS_SQL_Insights_Report.sql`](./kms_sql_case_study_real.sql)       | All queries used, with comments and insight notes |
+👉 [View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjhhNzExMzEtZTYwYi00OTk2LWFiMTQtYTFmMGViY2EwZWRmIiwidCI6IjY5MzhjMjVlLTYwZGEtNDc5YS05ODYzLTBkYzMwNTE2MTY2YSJ9) | Explore key business insights through our fully interactive Power BI dashboard.|
+[`📂 Order Details Dataset`](./kms_sql_case_.xlsx)                      | Full original dataset, cleaned and analyzed       |
+
+
+
 **What I Delivered**: A comprehensive gender equity analysis that revealed over **$2.9M** in compensation gaps and created a bonus allocation framework that gave leadership the strategic insights they needed to make informed decisions about scaling their business while addressing legitimate concerns about workplace equity.
 
 ---
