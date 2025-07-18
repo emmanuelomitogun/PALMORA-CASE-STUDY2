@@ -340,9 +340,5 @@ This project reinforced my belief that HR analytics isn't just about numbers—i
 
 The success of this project wasn't just in identifying problems or creating recommendations. It was in helping an organization understand itself better and providing the confidence to make positive changes that benefit everyone involved.
 
----
 
-**This analysis represents a comprehensive workforce equity assessment that demonstrates the power of data-driven decision making in addressing complex organizational challenges. All data has been anonymized while preserving analytical integrity and real-world applicability.**
-
-**Portfolio Note:** This case study showcases expertise in HR analytics, strategic thinking, stakeholder management, and the ability to translate complex data into actionable business insights that drive positive organizational change.
 
