@@ -66,7 +66,7 @@ Palmora was publicly accused of fostering gender inequity in pay and promotions.
 3. **Segmentation**: By region, department, and gender
 4. **Comparative Analysis**: Salary vs Bonus vs Performance ratings
 5. **Equity Check**: Salary band vs gender and region
-6. **Compliance Assessment**: Benchmarked against ₦90,000 manufacturing wage standard
+6. **Compliance Assessment**: Benchmarked against $90,000 manufacturing wage standard
 
 ---
 
@@ -91,7 +91,7 @@ Tools Used: Excel, Power BI, Python, Statistical Analysis, Data Visualization
 
 The Challenge That Started It All: Picture this: You're running a successful manufacturing company, and suddenly you're trending on social media with the hashtag **"Palmora, the Manufacturing Patriarchy."** That's exactly what happened to Palmora Group. The media storm wasn't just about reputation—it was threatening real business expansion plans. The leadership team knew they needed more than damage control; they needed the truth, backed by data.
 
-**What I Delivered**: A comprehensive gender equity analysis that revealed over **₦2.9M** in compensation gaps and created a bonus allocation framework that gave leadership the strategic insights they needed to make informed decisions about scaling their business while addressing legitimate concerns about workplace equity.
+**What I Delivered**: A comprehensive gender equity analysis that revealed over **$2.9M** in compensation gaps and created a bonus allocation framework that gave leadership the strategic insights they needed to make informed decisions about scaling their business while addressing legitimate concerns about workplace equity.
 
 ---
 
@@ -135,7 +135,7 @@ How I Tackled the Challenge: When dealing with sensitive topics like gender equi
 
 At first glance, this looked reasonably balanced. But that 4% non-disclosure rate caught my attention. In my experience, when employees don't feel comfortable sharing basic demographic information, it often signals deeper trust issues within the organization.
 
-**Regional Patterns That Raised Questions:** The most striking finding came from Kaduna, where male employees collectively earned ₦13.6M compared to ₦11.9M for female employees. This wasn't just a number on a spreadsheet—it represented real people with real financial lives. I needed to understand whether this reflected role distribution, historical hiring patterns, or something more concerning.
+**Regional Patterns That Raised Questions:** The most striking finding came from Kaduna, where male employees collectively earned $13.6M compared to $11.9M for female employees. This wasn't just a number on a spreadsheet—it represented real people with real financial lives. I needed to understand whether this reflected role distribution, historical hiring patterns, or something more concerning.
 
 ---
 
@@ -145,14 +145,14 @@ At first glance, this looked reasonably balanced. But that 4% non-disclosure rat
 
 **Departments with Significant Disparities:**
 
-* Legal Department: Male staff out-earned female staff by ₦1.2M aggregate
-* Product Management: 19% compensation gap (₦3.57M male vs. ₦2.9M female)
-* Support Division: ₦730,000 differential despite comparable headcount
+* Legal Department: Male staff out-earned female staff by $1.2M aggregate
+* Product Management: 19% compensation gap ($3.57M male vs. $2.9M female)
+* Support Division: $730,000 differential despite comparable headcount
 
 **But Here's What Gave Me Hope:**
 
-* Engineering: Female compensation actually exceeded male by ₦400,000+
-* Services: Near-perfect parity (₦3.06M female vs. ₦2.93M male)
+* Engineering: Female compensation actually exceeded male by $400,000+
+* Services: Near-perfect parity ($3.06M female vs. $2.93M male)
 
 This was the breakthrough moment. The fact that some departments had achieved equity proved that fair compensation wasn't just possible at Palmora—it was already happening. The question wasn't whether they could fix the problem, but why some departments had figured it out while others hadn't.
 
@@ -160,13 +160,13 @@ This was the breakthrough moment. The fact that some departments had achieved eq
 
 **THE REGULATORY WAKE-UP CALL**
 
-**Meeting the ₦90,000 Minimum Wage Requirement**
+**Meeting the $90,000 Minimum Wage Requirement**
 
 When I ran the numbers against the new manufacturing minimum wage requirement, the results were sobering:
 
 * Compliant employees: 804 (85%)
 * Non-compliant employees: 142 (15%)
-* Required investment: ₦3.55M annually
+* Required investment: $3.55M annually
 
 The departments requiring immediate attention were Support, Training, and Marketing. This wasn't just about compliance—it was about ensuring every employee could maintain a decent standard of living.
 
@@ -187,7 +187,7 @@ Absolutely. Continuing directly from Section 12 — keeping everything **exactly
 **Bonus Distribution Insights**
 The performance-based bonus system told an interesting story:
 
-* Total distributed: ₦11.6 million
+* Total distributed: $11.6 million
 
 | Bonus Status       | Employees | Percentage |
 |--------------------|-----------|------------|
@@ -202,15 +202,15 @@ The performance-based bonus system told an interesting story:
 
 | Region  | Total Bonus Distributed | Average Bonus per Recipient |
 |---------|--------------------------|------------------------------|
-| Lagos   | ₦1.2M                   | ₦8,000                      |
-| Abuja   | ₦1.8M                   | ₦12,000                     |
-| Kaduna  | ₦1.6M                   | ₦10,667                     |
+| Lagos   | $1.2M                   | $8,000                      |
+| Abuja   | $1.8M                   | $12,000                     |
+| Kaduna  | $1.6M                   | $10,667                     |
 
 **The Gender Gap in Bonuses:**
 
-* Male employees: Average bonus ₦12,500
-* Female employees: Average bonus ₦10,800
-* Gap: ₦1,700 average difference
+* Male employees: Average bonus $12,500
+* Female employees: Average bonus $10,800
+* Gap: $1,700 average difference
 
 But here's the crucial insight: This gap correlated directly with performance rating disparities, suggesting the issue wasn't necessarily in the bonus calculation system itself, but in how performance evaluations were being conducted.
 
@@ -250,13 +250,13 @@ But here's the crucial insight: This gap correlated directly with performance ra
 
 **The Cost of Inaction:**
 
-* Estimated annual turnover costs: ₦5.2M from equity-related departures
+* Estimated annual turnover costs: $5.2M from equity-related departures
 * Reputation damage: Immeasurable impact on customer relationships and talent acquisition
 * Legal risk: Potential regulatory action and discrimination lawsuits
 
 **The Investment Required:**
 
-* Comprehensive equity program: ₦1.8M implementation cost
+* Comprehensive equity program: $1.8M implementation cost
 * Projected ROI: 180% within 18 months through improved retention and engagement
 
 **The Opportunity:** Palmora could transform from crisis management to industry leadership. The successful practices already demonstrated in Engineering and Services prove organizational change is achievable.
