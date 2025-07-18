@@ -1,38 +1,5 @@
  # Gender Equity & Compensation Audit at Palmora Group
  ## A Data-Driven HR Analytics Case Study
-
----
-
-## 📑 Table of Contents
-
-## 📚 Table of Contents
-
-- [Executive Summary](#executive-summary)
-- [Objectives](#objectives)
-- [Problem Statement](#problem-statement)
-- [Methodology](#methodology)
-- [Data Cleaning](#data-cleaning)
-- [Project Overview](#project-overview)
-- [Insights](#insights)
-- [My Analytical Approach](#my-analytical-approach)
-- [What the Data Revealed](#what-the-data-revealed)
-- [The Compensation Reality Check](#the-compensation-reality-check)
-- [The Regulatory Wake-up Call](#the-regulatory-wake-up-call)
-- [The Performance Evaluation Puzzle](#the-performance-evaluation-puzzle)
-- [Strategic Recommendations](#strategic-recommendations)
-- [The Business Case for Change](#the-business-case-for-change)
-- [Implementation Roadmap](#implementation-roadmap)
-- [Lessons Learned and Reflections](#lessons-learned-and-reflections)
-- [Technical Portfolio Showcase](#technical-portfolio-showcase)
-- [The Human Impact](#the-human-impact)
-- [Final Thoughts](#final-thoughts)
-
-
-
-
-
-
-
 ---
 
 ## ** EXECUTIVE SUMMARY**
